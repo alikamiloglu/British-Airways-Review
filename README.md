@@ -14,3 +14,8 @@ You can view the interactive dashboard [here](https://public.tableau.com/app/pro
 
 ## Files Included
 - `BritishAirwaysReview.twbx`: The Tableau workbook file.
+  
+## Data Folder
+This repository includes a `data/` folder containing the following datasets:
+- `data/Countries.csv`: Contains country and region information.
+- `data/ba_reviews.csv`: Contains British Airways customer reviews.
